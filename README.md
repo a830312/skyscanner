@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/mz026/universal-redux-template.svg?branch=master)](https://travis-ci.org/mz026/universal-redux-template)
 
-# Universal Redux Template
+# Skyscanner demo
 A boilerplate doing universal/isomorphic rendering with Redux + React-router + Express, based on [Redux-Realword-Example](https://github.com/reactjs/redux/tree/master/examples/real-world)
 
 ## Philosophy
